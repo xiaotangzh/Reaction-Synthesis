@@ -12,8 +12,8 @@ We propose a real-time method for reactive motion synthesis based on the known t
 1. Install Unity3D Hub and import `Unity3D` project.
 2. Open scene `Unity3D/Assets/Demo/Motion Synthesis/ReactionSynthesis`.
 3. Load pre-trained models from `PyTorch/Checkpoints` to the `__main__` function of `PyTorch/Models/CodebookMatching/Inference.py`.
-4. Run `Inference.py` in python.
-5. Click the play button in Unity3D.
+4. Run `Inference.py` in python and wait a few seconds for loading checkpoints.
+5. Click the play button in Unity3D and wait a few seconds for socket connection.
 
 ### Acknowledgement
 The Unity3D visualization tool is based on [AI4Animation](https://github.com/sebastianstarke/AI4Animation) and the network's backbone is from [Codebook Matching](https://dl.acm.org/doi/10.1145/3658209). We gratefully acknowledge [Sebastian Starke](https://github.com/sebastianstarke) for his outstanding open-source contributions.
