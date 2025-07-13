@@ -1,0 +1,2 @@
+Unity3D/Assets/**/*.asset filter=lfs diff=lfs merge=lfs -text
+PyTorch/Checkpoints/**/*.pth filter=lfs diff=lfs merge=lfs -text
