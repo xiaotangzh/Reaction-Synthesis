@@ -2,7 +2,7 @@
 # Real-time and Controllable Reactive Motion Synthesis
 [Xiaotang Zhang](https://scholar.google.com/citations?hl=en&user=MHQRNggAAAAJ), [Ziyi Chang](https://scholar.google.com/citations?user=gHhQNlYAAAAJ&hl), [Qianhui Men](https://scholar.google.com/citations?user=t1hraiAAAAAJ&hl), [Hubert Shum](http://hubertshum.com/)
 
-📃[Paper](https://arxiv.org/abs/2507.09704) 🎬[Video](https://www.youtube.com/watch?v=jt3Vu2rmD38)
+📃[Paper](http://doi.org/10.1111/cgf.70222) 🎬[Video](https://www.youtube.com/watch?v=jt3Vu2rmD38)
 
 ![Teaser](/materials/Teaser.png)
 ### Abstract
@@ -18,7 +18,13 @@ We propose a real-time method for reactive motion synthesis based on the known t
 ### Acknowledgement
 The Unity3D visualization tool is based on [AI4Animation](https://github.com/sebastianstarke/AI4Animation) and the network's backbone is from [Codebook Matching](https://dl.acm.org/doi/10.1145/3658209). We gratefully acknowledge [Sebastian Starke](https://github.com/sebastianstarke) for his outstanding open-source contributions.
 
-### Citation
+### BibTex
 ```
-todo
+@inproceedings{zhang2025real,
+  title={Real-time and Controllable Reactive Motion Synthesis via Intention Guidance},
+  author={Zhang, Xiaotang and Chang, Ziyi and Men, Qianhui and Shum, Hubert and others},
+  booktitle={Computer Graphics Forum},
+  year={2025},
+  organization={Wiley}
+}
 ```
