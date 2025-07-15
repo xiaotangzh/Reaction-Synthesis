@@ -1,6 +1,6 @@
 > *Computer Graphics Forum (CGF), 2025*
 # Real-time and Controllable Reactive Motion Synthesis
-[Xiaotang Zhang](https://scholar.google.com/citations?hl=en&user=MHQRNggAAAAJ), [Ziyi Chang](https://scholar.google.com/citations?user=gHhQNlYAAAAJ&hl), [Qianhui Men](https://scholar.google.com/citations?user=t1hraiAAAAAJ&hl), [Hubert Shum](http://hubertshum.com/)
+[Xiaotang Zhang](https://scholar.google.com/citations?hl=en&user=MHQRNggAAAAJ), [Ziyi Chang](https://scholar.google.com/citations?user=gHhQNlYAAAAJ&hl), [Qianhui Men](https://scholar.google.com/citations?user=t1hraiAAAAAJ&hl), [Hubert Shum](http://hubertshum.com/)$^✉️$
 
 📃[Paper](http://doi.org/10.1111/cgf.70222) 🎬[Video](https://www.youtube.com/watch?v=jt3Vu2rmD38)
 
