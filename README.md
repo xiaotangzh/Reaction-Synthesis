@@ -2,7 +2,7 @@
 # Real-time and Controllable Reactive Motion Synthesis
 [Xiaotang Zhang](https://scholar.google.com/citations?hl=en&user=MHQRNggAAAAJ), [Ziyi Chang](https://scholar.google.com/citations?user=gHhQNlYAAAAJ&hl), [Qianhui Men](https://scholar.google.com/citations?user=t1hraiAAAAAJ&hl), [Hubert Shum](http://hubertshum.com/)
 
-📃[Paper] 🎬[Video](https://www.youtube.com/watch?v=jt3Vu2rmD38)
+📃[Paper](https://arxiv.org/abs/2507.09704) 🎬[Video](https://www.youtube.com/watch?v=jt3Vu2rmD38)
 
 ![Teaser](/materials/Teaser.png)
 ### Abstract
@@ -18,8 +18,7 @@ We propose a real-time method for reactive motion synthesis based on the known t
 ### Acknowledgement
 The Unity3D visualization tool is based on [AI4Animation](https://github.com/sebastianstarke/AI4Animation) and the network's backbone is from [Codebook Matching](https://dl.acm.org/doi/10.1145/3658209). We gratefully acknowledge [Sebastian Starke](https://github.com/sebastianstarke) for his outstanding open-source contributions.
 
-### Cite this paper
-Please consider citing the paper if it is useful to you:
+### Citation
 ```
 todo
 ```
