@@ -1,4 +1,3 @@
-<br>
 <p align="center">
 <h1 align="center"><strong>Real-time and Controllable Reactive Motion Synthesis</strong></h1>
   <p align="center">
