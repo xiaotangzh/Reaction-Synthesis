@@ -1,8 +1,26 @@
-> *Computer Graphics Forum (CGF), 2025*
-# Real-time and Controllable Reactive Motion Synthesis
-[Xiaotang Zhang](https://scholar.google.com/citations?hl=en&user=MHQRNggAAAAJ), [Ziyi Chang](https://scholar.google.com/citations?user=gHhQNlYAAAAJ&hl), [Qianhui Men](https://scholar.google.com/citations?user=t1hraiAAAAAJ&hl), [Hubert Shum](http://hubertshum.com/)$^✉️$
+<br>
+<p align="center">
+<h1 align="center"><strong>Real-time and Controllable Reactive Motion Synthesis</strong></h1>
+  <p align="center">
+    <a href="https://scholar.google.com/citations?hl=en&user=MHQRNggAAAAJ" target="_blank">Xiaotang Zhang</a><sup>1</sup>,
+    <a href="https://scholar.google.com/citations?user=gHhQNlYAAAAJ&hl" target="_blank">Ziyi Chang</a><sup>1</sup>,
+    <a href="https://scholar.google.com/citations?user=t1hraiAAAAAJ&hl" target="_blank">Qianhui Men</a><sup>2</sup>,
+    <a href="http://hubertshum.com/" target="_blank">Hubert Shum</a><sup>1&dagger;</sup>
+    <br>
+      <sup>1</sup>Durham University  
+      <sup>2</sup>University of Bristol
+    <br>
+      &dagger; Corresponding Author
+  </p>
+</p>
 
-📃[Paper](http://doi.org/10.1111/cgf.70222) 🎬[Video](https://www.youtube.com/watch?v=jt3Vu2rmD38)
+<div id="top" align="center">
+
+[![](https://img.shields.io/badge/Computer%20Graphics%20Forum-green)](http://doi.org/10.1111/cgf.70222)
+[![](https://img.shields.io/badge/Paper-%F0%9F%93%83-blue)](http://doi.org/10.1111/cgf.70222)
+[![](https://img.shields.io/badge/Video-%F0%9F%8E%AC-red)](https://youtu.be/jt3Vu2rmD38?si=j5eosbbRhq1FW-XR)
+
+</div>
 
 ![Teaser](/materials/Teaser.png)
 ### Abstract
