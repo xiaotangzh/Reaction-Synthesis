@@ -1,3 +1,4 @@
+> Computer Graphics Forum 2025
 <p align="center">
 <h1 align="center"><strong>Real-time and Controllable Reactive Motion Synthesis</strong></h1>
   <p align="center">
@@ -14,10 +15,8 @@
 </p>
 
 <div id="top" align="center">
-
-[![](https://img.shields.io/badge/Computer%20Graphics%20Forum-green)](http://doi.org/10.1111/cgf.70222)
-[![](https://img.shields.io/badge/Paper-%F0%9F%93%83-blue)](http://doi.org/10.1111/cgf.70222)
-[![](https://img.shields.io/badge/Video-%F0%9F%8E%AC-red)](https://youtu.be/jt3Vu2rmD38?si=j5eosbbRhq1FW-XR)
+  
+[[Paper]](http://doi.org/10.1111/cgf.70222) [[Video]](https://youtu.be/jt3Vu2rmD38?si=j5eosbbRhq1FW-XR) [[arXiv]](https://arxiv.org/abs/2507.09704)
 
 </div>
 
